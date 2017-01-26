@@ -37,3 +37,9 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+## Screenshot 
+<img src='https://github.com/IsabelPalomar/TipCalculator/blob/master/TipCalculator.jpg' title='Video Walkthrough' width='400px' alt='Tip Calculator' />
+
+
+
+
