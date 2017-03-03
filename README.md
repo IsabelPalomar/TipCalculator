@@ -1,6 +1,18 @@
 #  *Tip Calculator*
 
-**Tip Calculator** is an app to	practice the basic concepts of application	development	on Android	
+**Tip Calculator** is an app to	practice the basic concepts of application development on Android
+
+## Topics
+* Android basic blocks
+    - Activities
+    - Intents
+* Basic UI elements  
+    - Layouts
+    - Input controls
+* Libraries: Butterknife
+* strings.xml
+* Resources and asset files
+* Debugging
 
 ## User Stories
 
@@ -8,7 +20,7 @@ The following **required** functionality is completed:
 
 ####Layout
 * [x] The user will be able to enter a bill amount
-* [x] When the user enters the bill amount the application calculates the final bill amount(15% default percert) and displays the calculations.
+* [x] When the user enters the bill amount the application calculates the final bill amount(15% default percent) and displays the calculations.
 * [x] The application contains 3 buttons to change the tip percentage to 10%, 15% and 20%.
 * [x] The code adheres to all of the following best practices:
       - Text sizes are defined in sp
@@ -29,7 +41,7 @@ The following **additional** features are implemented:
 * [x] All the values for dimensions are specified in dimens.xml
 * [x] All the string values are specified in strings.xml
 
-## Video Walkthrough 
+## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
@@ -37,9 +49,5 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Screenshot 
+## Screenshot
 <img src='https://github.com/IsabelPalomar/TipCalculator/blob/master/TipCalculator.jpg' title='Video Walkthrough' width='400px' alt='Tip Calculator' />
-
-
-
-
